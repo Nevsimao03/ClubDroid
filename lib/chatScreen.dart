@@ -196,10 +196,10 @@ class ChatScreenState extends State<ChatScreen> {
 
     currentUserEmail = googleSignIn.currentUser.email;
 
-    if (await auth.currentUser == null) {
+    if (auth.currentUser == null) {
       GoogleSignInAuthentication credentials =
           await googleSignIn.currentUser.authentication;
-      await GoogleAuthProvider.credential(
+      GoogleAuthProvider.credential(
           idToken: credentials.idToken, accessToken: credentials.accessToken);
     }
   }
