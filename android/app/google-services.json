@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552464312280",
+    "project_id": "clubdroid-81ab6",
+    "storage_bucket": "clubdroid-81ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552464312280:android:15c71d25e2770005dc34ad",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552464312280-lh1ci1aguoie8912mmvn8oonu8np2car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJJ8G7XsoapxwJhmFWE89ly1hALJNtTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552464312280-lh1ci1aguoie8912mmvn8oonu8np2car.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
