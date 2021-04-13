@@ -1,4 +1,4 @@
-Resources used: 
+Reference used: 
 [Futter](https://flutter.dev/docs)
 [Firebase](https://firebase.google.com/)
 [Freecodecamp](https://www.freecodecamp.org/news/build-a-chat-app-ui-with-flutter/)
